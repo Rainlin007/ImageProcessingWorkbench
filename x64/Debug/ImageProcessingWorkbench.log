@@ -1,0 +1,12 @@
+﻿  RImageProcessing.cpp
+e:\opencv\opencv3\build\include\opencv2\core\mat.hpp(1965): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+e:\opencv\opencv3\build\include\opencv2\core\persistence.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+e:\opencv\opencv3\build\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+e:\opencv\opencv3\build\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\users\image\documents\visual studio 2015\projects\imageprocessingworkbench\imageprocessingworkbench\rimageprocessing.cpp(27): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+d:\users\image\documents\visual studio 2015\projects\imageprocessingworkbench\imageprocessingworkbench\rimageprocessing.cpp(77): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+d:\users\image\documents\visual studio 2015\projects\imageprocessingworkbench\imageprocessingworkbench\rimageprocessing.cpp(85): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+d:\users\image\documents\visual studio 2015\projects\imageprocessingworkbench\imageprocessingworkbench\rimageprocessing.cpp(126): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\users\image\documents\visual studio 2015\projects\imageprocessingworkbench\imageprocessingworkbench\rimageprocessing.cpp(163): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  ImageProcessingWorkbench.vcxproj -> D:\Users\Image\Documents\Visual Studio 2015\Projects\ImageProcessingWorkbench\x64\Debug\ImageProcessingWorkbench.exe
+  ImageProcessingWorkbench.vcxproj -> D:\Users\Image\Documents\Visual Studio 2015\Projects\ImageProcessingWorkbench\x64\Debug\ImageProcessingWorkbench.pdb (Partial PDB)
